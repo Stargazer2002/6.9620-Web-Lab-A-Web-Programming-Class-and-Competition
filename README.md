@@ -1,4 +1,4 @@
-# 6.9620 web.lab: A Web Programming Class and Competition 2024
+# 6.9620 Web Lab: A Web Programming Class and Competition 2024
 
 At its core, web.lab is a [6-Unit MIT IAP Class](http://student.mit.edu/catalog/m6e.html#6.9620) which teaches the fundamentals of web development. It lays the foundations for understanding complicated web techologies using the fundamental building blocks of HTML, CSS, and JavaScript. In addition to learning how to build a website, students enrolled in web.lab may also take part in a competition to win prize money and glory.
 
